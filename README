@@ -1,3 +1,4 @@
 install with npm install
 compile with webpack
 point browser to index.html
+notice that the variable "foo" is not available in the Item component
